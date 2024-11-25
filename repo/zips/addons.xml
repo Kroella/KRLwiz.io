@@ -2,9 +2,9 @@
 <addons><addon id="KRLwiz.addon" name="repository.KRLwiz" version="1.0" provider-name="Kroella">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Kroella/repository.KRLwiz/Mmaster/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Kroella/repository.KRLwiz/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Kroella/repository.KRLwiz/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/Kroella/Kroella.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Kroella/Kroella.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Kroella/Kroella.github.io/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
