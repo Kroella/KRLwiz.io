@@ -1,0 +1,3 @@
+[submodule "repo/plugin.program.KRLwiz"]
+	path = repo/plugin.program.KRLwiz
+	url = https://github.com/Kroella/plugin.program.KRLwiz
